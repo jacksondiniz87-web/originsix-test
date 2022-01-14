@@ -531,8 +531,8 @@ footer .social a:hover {
 }
 
 /*========= MEDIA QUERIES =========*/
-/* extra large devices: 1200 > */
-@media (min-width: 1024px) {
+/* extra large devices: 1024 > */
+@media (min-width: 1000px) {
   /* reusable classes */
   .container {
     max-width: 990px;
@@ -651,9 +651,9 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
-/* large devices: 1023 > */
-/* large devices: 992 > */
-@media (min-width: 992px) {
+/* large devices: 1000 > */
+/* large devices: 989 > */
+@media (min-width: 989px) {
   :root {
     --title-font-size: 2.25rem;
     --subtitle-font-size: 1.125rem;
